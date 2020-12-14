@@ -1,4 +1,4 @@
-React app that pulls videos using an api and makes use of a grid system/layout to display those videos. 
+React app that allows you to search youtube videos using an api and makes use of a grid system/layout to display those videos. 
 ## Available Scripts
 
 In the project directory, you can run:
