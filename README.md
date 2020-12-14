@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+React app that pulls videos using an api and makes use of a grid system/layout to display those videos. 
 ## Available Scripts
 
 In the project directory, you can run:
